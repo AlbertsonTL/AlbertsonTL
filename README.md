@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Regular+400+Italic&weight=900&size=30&pause=1000&color=0486AA&vCenter=true&width=425&lines=👋🏻+Soy%2C+Alb3rtsonTL;→+Albertson+Terrero+L%C3%B3pez;👨🏻‍💻Programador+y+Diseñador;👨🏻‍💻+De+Software+y+Webs)](https://alb3rtsontl.pages.dev)
 
-<img src="https://raw.githubusercontent.com/Alb3rtsonTL/Alb3rtsonTL-Portafolio/refs/heads/main/public/assets/img/code.gif?token=GHSAT0AAAAAAEA6IFQNWQHUJ2R4F7DTBXYS2SAC4YA" alt="Banner" width="100%" height="250px"/>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQE1ccEGe5uYlQ/profile-displaybackgroundimage-shrink_200_800/B4EZ71dgbKIwAQ-/0/1782234613791?e=1784160000&v=beta&t=Iy_anm1KosRDLts5WdbLGZ22dMB-kJVGnAsEFfLZlP0" alt="Banner" width="100%" height="250px"/>
 
 ## 💻 Sobre mí
 
@@ -64,8 +64,6 @@ Aplico Clean Architecture, principios SOLID y diseño de bases de datos para cre
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQE1ccEGe5uYlQ/profile-displaybackgroundimage-shrink_200_800/B4EZ71dgbKIwAQ-/0/1782234613791?e=1784160000&v=beta&t=Iy_anm1KosRDLts5WdbLGZ22dMB-kJVGnAsEFfLZlP0" alt="Banner" width="100%" height="250px"/>
 
 ## 📫 Contacto
 
