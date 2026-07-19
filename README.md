@@ -59,7 +59,7 @@ Aplico Clean Architecture, principios SOLID y diseño de bases de datos para cre
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alb3rtsonTL&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlbertsonTL&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
