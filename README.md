@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Regular+400+Italic&weight=900&size=30&pause=1000&color=0486AA&vCenter=true&width=425&lines=👋🏻+Soy%2C+Alb3rtsonTL;→+Albertson+Terrero+L%C3%B3pez;👨🏻‍💻Programador+y+Diseñador;👨🏻‍💻+De+Software+y+Webs)](https://alb3rtsontl.pages.dev)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Regular+400+Italic&weight=900&size=30&pause=1000&color=0486AA&vCenter=true&width=425&lines=👋🏻+Soy%2C+AlbertsonTL;→+Albertson+Terrero+L%C3%B3pez;👨🏻‍💻Programador+y+Diseñador;👨🏻‍💻+De+Software+y+Webs)](https://albertsontl.pages.dev)
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQE1ccEGe5uYlQ/profile-displaybackgroundimage-shrink_200_800/B4EZ71dgbKIwAQ-/0/1782234613791?e=1784160000&v=beta&t=Iy_anm1KosRDLts5WdbLGZ22dMB-kJVGnAsEFfLZlP0" alt="Banner" width="100%" height="250px"/>
+<img src="./brand-banner-developer.png" alt="Banner" width="100%" height="250px"/>
 
 ## 💻 Sobre mí
 
@@ -67,6 +67,6 @@ Aplico Clean Architecture, principios SOLID y diseño de bases de datos para cre
 
 ## 📫 Contacto
 
-[![Portafolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=About.me&logoColor=white)](https://alb3rtsontl.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alb3rtsontl)
-[![Email](https://img.shields.io/badge/Email-alb3rtsontl%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alb3rtsontl@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=About.me&logoColor=white)](https://albertsontl.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/albertsontl)
+[![Email](https://img.shields.io/badge/Email-albertsontl%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alb3rtsontl@gmail.com)
