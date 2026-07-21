@@ -59,9 +59,8 @@ Aplico Clean Architecture, principios SOLID y diseño de bases de datos para cre
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlbertsonTL&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+[![Github Stats](https://kasroudra-stats-card.onrender.com/user?user=AlbertsonTL&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlbertsonTL&theme=tokyonight&hide_border=true)](https://github.com/KasRoudra/github-stats-card)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
