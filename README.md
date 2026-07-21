@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Regular+400+Italic&weight=900&size=30&pause=1000&color=0486AA&vCenter=true&width=425&lines=👋🏻+Soy%2C+AlbertsonTL;→+Albertson+Terrero+L%C3%B3pez;👨🏻‍💻Programador+y+Diseñador;👨🏻‍💻+De+Software+y+Webs)](https://albertsontl.pages.dev)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Regular+400+Italic&weight=900&size=30&pause=1000&color=0486AA&vCenter=true&width=425&lines=👋🏻+Soy%2C+AlbertsonTL;→+Albertson+Terrero+L%C3%B3pez)](https://albertsontl.pages.dev)
 
 <img src="./brand-banner-developer.png" alt="Banner" width="100%" height="250px"/>
 
