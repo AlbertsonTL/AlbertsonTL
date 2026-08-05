@@ -1,71 +1,91 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Regular+400+Italic&weight=900&size=30&pause=1000&color=0486AA&vCenter=true&width=425&lines=👋🏻+Soy%2C+AlbertsonTL;→+Albertson+Terrero+L%C3%B3pez)](https://albertsontl.pages.dev)
+<div>
 
-<img src="./brand-banner-developer.png" alt="Banner" width="100%" height="250px"/>
+<img src="https://readme-typing-svg.demolab.com?font=Regular+400+Italic&weight=900&size=30&pause=1000&color=0486AA&vCenter=true&width=425&lines=Albertson+Terrero+L%C3%B3pez" alt="Typing SVG" />
 
-## 💻 Sobre mí
+<img src="https://github.com/AlbertsonTL/AlbertsonTL/blob/main/brand-banner-developer.png?raw=true" alt="Banner" width="100%" height="250px"/>
 
-Backend Developer en formación, enfocado en APIs REST con ASP.NET Core, C# y SQL Server.  
-Aplico Clean Architecture, principios SOLID y diseño de bases de datos para crear sistemas mantenibles.
+</div>
 
-**Intereses:** Programación · Inteligencia Artificial · Electrónica
+## 👨‍💻 Sobre mí
+Construyo APIs REST y sistemas orientados a reglas de negocio con ASP.NET Core (C#), SQL Server y PHP. Priorizo un diseño mantenible, la seguridad y soluciones que puedan evolucionar con el tiempo.
 
-**Actualmente trabajando en**: APIs REST con ASP.NET Core  
+- **Intereses:** Programación · Inteligencia Artificial · Electrónica
+- **Actualmente trabajando en:** APIs REST con ASP.NET Core
+- **Aprendiendo:** Docker · GitHub Actions (CI/CD) · Azure
 
-**Aprendiendo**: Docker + CI/CD con GitHub Actions y Azure
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Tech Stack
+## 💻 Tecnologías
 
-### Backend
+### ⚙️ Backend
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### Bases de Datos
+### 🗄️ Bases de Datos
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-### APIs & Arquitectura
+### 🏗️ Arquitectura
 
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-0d6efd?style=for-the-badge&logo=dotnet&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-6f42c1?style=for-the-badge&logo=bookstack&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-%231E88E5.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-%237C4DFF.svg?style=for-the-badge&logo=bookstack&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%2368217A.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### DevOps & Herramientas
+### 🛠️ DevOps & Herramientas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## 📊 GitHub Stats
+
+[![Github-Stats-Card-User](https://kasroudra-stats-card.onrender.com/user?user=albertsonTL&theme=react&layout=compact&height=300&hcolor=4793aa)](https://albertsontl.pages.dev)
+[![Github-Stats-Card-Lang](https://kasroudra-stats-card.onrender.com/lang?user=albertsonTL&theme=react&layout=compact&sort=desc&height=300&hcolor=4793aa&exclude_lang=CSS,Jupyter%20Notebook,Shell,Hack)](https://albertsontl.pages.dev)
+
+## 📦 Proyectos
+
+<!-- GitHub-Stats-Card Repository -> https://github.com/KasRoudra/github-stats-card -->
 
 <div align="center">
 
-[![Github Stats](https://kasroudra-stats-card.onrender.com/user?user=AlbertsonTL&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlbertsonTL&theme=tokyonight&hide_border=true)](https://github.com/KasRoudra/github-stats-card)
+[![Github-Stats-Card-Repo](https://kasroudra-stats-card.onrender.com/repo?user=albertsonTL&repo=P3-eVote360&theme=react&layout=compact&hcolor=478caa&exclude_stat=bb)](https://github.com/AlbertsonTL/P3-eVote360)
+[![Github-Stats-Card-Repo](https://kasroudra-stats-card.onrender.com/repo?user=albertsonTL&repo=DevOps-ProyectoFinal&theme=react&layout=compact&hcolor=478caa&exclude_stat=bb)](https://github.com/AlbertsonTL/DevOps-ProyectoFinal)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-## 📫 Contacto
+---
 
-[![Portafolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=About.me&logoColor=white)](https://albertsontl.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/albertsontl)
-[![Email](https://img.shields.io/badge/Email-albertsontl%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alb3rtsontl@gmail.com)
+## 🤝 Contacto
+
+¿Te interesa mi perfil? Puedes explorar mi portafolio, enviarme un mensaje o conectar conmigo en LinkedIn.
+
+<div align="center">
+
+<a href="https://albertsontl.pages.dev"><img src="https://img.shields.io/badge/🌐%20VISITAR%20PORTAFOLIO-0486AA?style=for-the-badge" alt="Portafolio"></a> 
+<a href="https://albertsontl.pages.dev/#contact"><img src="https://img.shields.io/badge/📨%20ENVIAR%20MENSAJE-393D4D?style=for-the-badge" alt="Mensaje"></a> 
+<a href="https://linkedin.com/in/albertsontl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+</div>
