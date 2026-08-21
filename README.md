@@ -7,6 +7,7 @@
 </div>
 
 ## 👨‍💻 Sobre mí
+
 Construyo APIs REST y sistemas orientados a reglas de negocio con ASP.NET Core (C#), SQL Server y PHP. Priorizo un diseño mantenible, la seguridad y soluciones que puedan evolucionar con el tiempo.
 
 - **Intereses:** Programación · Inteligencia Artificial · Electrónica
@@ -24,10 +25,11 @@ Construyo APIs REST y sistemas orientados a reglas de negocio con ASP.NET Core (
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![LARABEL](https://img.shields.io/badge/LARABEL-%23777BB4.svg?style=for-the-badge&logo=larabel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🗄️ Bases de Datos
 
+![SQL](https://img.shields.io/badge/SQL-%23006699.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
@@ -79,6 +81,7 @@ Construyo APIs REST y sistemas orientados a reglas de negocio con ASP.NET Core (
 <div align="center">
 
 [![Github-Stats-Card-Repo](https://kasroudra-stats-card.onrender.com/repo?user=albertsonTL&repo=P3-eVote360&theme=react&layout=compact&hcolor=478caa&exclude_stat=bb)](https://github.com/AlbertsonTL/P3-eVote360)
+
 [![Github-Stats-Card-Repo](https://kasroudra-stats-card.onrender.com/repo?user=albertsonTL&repo=DevOps-ProyectoFinal&theme=react&layout=compact&hcolor=478caa&exclude_stat=bb)](https://github.com/AlbertsonTL/DevOps-ProyectoFinal)
 
 </div>
