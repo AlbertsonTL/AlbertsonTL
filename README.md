@@ -24,6 +24,7 @@ Construyo APIs REST y sistemas orientados a reglas de negocio con ASP.NET Core (
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![LARABEL](https://img.shields.io/badge/LARABEL-%23777BB4.svg?style=for-the-badge&logo=larabel&logoColor=white)
 
 ### 🗄️ Bases de Datos
 
