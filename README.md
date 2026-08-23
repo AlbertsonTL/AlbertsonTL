@@ -68,10 +68,6 @@ Construyo APIs REST y sistemas orientados a reglas de negocio con ASP.NET Core (
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertsonTL&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
 </p>
 
 ## 📦 Proyectos
