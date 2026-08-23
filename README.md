@@ -64,11 +64,11 @@ Construyo APIs REST y sistemas orientados a reglas de negocio con ASP.NET Core (
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://kasroudra-stats-card.onrender.com/lang?user=albertsonTL&theme=react&layout=compact&sort=desc&height=300&hcolor=4793aa&exclude_lang=CSS,Jupyter%20Notebook,Shell,Hack" />
+  <img src="https://kasroudra-stats-card.onrender.com/lang?user=AlbertsonTL&theme=react&layout=compact&sort=desc&height=300&hcolor=4793aa&exclude_lang=CSS,Jupyter%20Notebook,Shell,Hack" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertsonTL&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertsonTL&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
