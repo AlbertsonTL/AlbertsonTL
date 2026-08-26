@@ -32,7 +32,6 @@ Construyo APIs REST y sistemas orientados a reglas de negocio con ASP.NET Core (
 ![SQL](https://img.shields.io/badge/SQL-%23006699.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🏗️ Arquitectura
 
