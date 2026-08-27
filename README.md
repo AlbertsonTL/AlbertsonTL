@@ -63,11 +63,7 @@ Construyo APIs REST y sistemas orientados a reglas de negocio con ASP.NET Core (
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://kasroudra-stats-card.onrender.com/lang?user=AlbertsonTL&theme=react&layout=compact&sort=desc&height=300&hcolor=4793aa&bdcolor=478caa&exclude_lang=CSS,Jupyter%20Notebook,Shell,Hack" alt="Top Languages" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertsonTL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 ## 📦 Proyectos
