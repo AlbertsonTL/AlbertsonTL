@@ -93,7 +93,7 @@ Construyo APIs REST y sistemas orientados a reglas de negocio con ASP.NET Core (
 
 ¿Te interesa mi perfil? Puedes explorar mi portafolio, enviarme un mensaje o conectar conmigo en LinkedIn.
 
-<div align="center">
+<div align="">
 
 <a href="https://albertsontl.pages.dev"><img src="https://img.shields.io/badge/🌐%20VISITAR%20PORTAFOLIO-0486AA?style=for-the-badge" alt="Portafolio"></a> 
 <a href="https://albertsontl.pages.dev/#contact"><img src="https://img.shields.io/badge/📨%20ENVIAR%20MENSAJE-393D4D?style=for-the-badge" alt="Mensaje"></a> 
