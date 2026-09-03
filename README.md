@@ -85,7 +85,7 @@ Construyo APIs REST y sistemas orientados a reglas de negocio con ASP.NET Core (
 [![Github-Stats-Card-Repo](https://kasroudra-stats-card.onrender.com/repo?user=AlbertsonTL&repo=P3-LinkUp&theme=react&layout=compact&hcolor=478caa&bdcolor=478caa&width=400&hide_zero=true
 )](https://github.com/AlbertsonTL/P3-LinkUp)
 
-</div></div>
+</div>
 
 ---
 
